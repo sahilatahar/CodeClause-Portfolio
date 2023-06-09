@@ -2,6 +2,10 @@
 
 This portfolio has a one-page layout, Vanilla CSS styling, reveal animations, and well-organized documentation. It is a modern and responsive website. impressive functionality and design all in one.
 
+## Screenshot
+![Sahil Atahar - Portfolio Web](https://github.com/sahilatahar/CodeClause-Portfolio/assets/100127570/d814376b-a579-42b4-a514-04a955fec4a5)
+
+# [Live Preview](https://sahilatahar.github.io/CodeClause-Portfolio/)
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
